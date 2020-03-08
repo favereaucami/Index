@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <meta name="robots" content="noindex">
 <html>
   <head>
@@ -40,7 +39,6 @@ img {
     <h1>キャミとアルデリックのウェブサイト</h1>
     <h2> フランス全土で最高のサイト - Le meilleur site de toute la France*
       <h3> *Pas Vraiment </h3></h2>
-    <img src=>
 
     <p>Moi, je suis Camilo Favereau, je suis en Première Génerale et mes specialités sont:</p>
 
@@ -54,5 +52,3 @@ img {
     <p>Même si mes specialités montrent que je prend un chemin scientifique, je préfere la littérature et l'art ¯\_(ツ)_/¯.
 
     <p>Ce site a put être crée grâce au <a href="https://bouillotvincent.github.io/discover_HTML.html">Professeur Vincent Bouillot</a> et le <a href="https://translate.google.com/?hl=es#view=home&op=translate&sl=en&tl=ja">Traducteur de Google</a> pour le cractères japonais.</p>
-  </body>
-</html>
