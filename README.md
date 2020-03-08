@@ -26,7 +26,7 @@ h3{
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: ;
+  background-color:blueviolet;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
   color:white;
