@@ -2,10 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <link href="https://fonts.googleapis.com/css?family=Bellota:700&display=swap" rel="stylesheet">
   <style id="jsbin-css">
 html {
-  font-family: 'Bellota', cursive;
   background-color: #00539F;
 }
 h1,h2{
