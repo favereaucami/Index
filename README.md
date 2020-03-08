@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>favereaucami.github.io</title>
     <link href="https://fonts.googleapis.com/css?family=Bellota:700&display=swap" rel="stylesheet">
   <style id="jsbin-css">
 html {
