@@ -21,7 +21,6 @@ h2{
 }
 h3{
   color:white;
-  width:100px;
 }
 body {
   width: 600px;
