@@ -2,26 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-  <style id="jsbin-css">
-html {
-  background-color: #00539F;
-}
-h1,h2{
-  margin:0;
-  background:black;
-  color:pink;
-}
-h2{
-  color:white;
-}
-body {
-  margin: 0 auto;
-  background-color:blueviolet;
-  padding: 0 20px 20px 20px;
-  border: 5px solid black;
-  color:white;
-}
-</style>
 </head>
   <body>
     <h1>キャミとアルデリックのウェブサイト</h1>
