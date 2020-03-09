@@ -54,4 +54,4 @@ body {
   <p>Si vous souhaitez voir plus, veuillez regardez ce deux liens: </p>
   <ul>
     <li>Rapports<a href>
-    <li>Projets <a href>
+    <li><a href="https://favereaucami.github.io/projets/">Projets
