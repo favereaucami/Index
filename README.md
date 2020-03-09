@@ -9,7 +9,7 @@ html {
   font-family: 'Bellota', cursive;
   background-color: #00539F;
 }
-h1,h2{
+h1{
   margin: 0;
   border: 2.5px solid white;
   background:black;
@@ -18,6 +18,10 @@ h1,h2{
 }
 h2{
   color:white;
+  background:black;
+  border: 2.5px solid white;
+  padding: 0 11.9px 0;
+  margin: 0;
 }
 body {
   margin: 0 auto;
