@@ -2,7 +2,7 @@
 <html>
 <head>    
 <meta charset="utf-8">
- <style id="jsbin-css">
+ <style>
 html {
   font-family: 'Bellota', cursive;
   background-color: #00539F;
