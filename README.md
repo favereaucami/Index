@@ -53,5 +53,5 @@ body {
   <p>Ce site a put être crée grâce au <a href="https://bouillotvincent.github.io/discover_HTML.html">Professeur Vincent Bouillot</a> et le <a href="https://translate.google.com/?hl=es#view=home&op=translate&sl=en&tl=ja">Traducteur de Google</a> pour le caractères japonais.</p>
   <p>Si vous souhaitez voir plus, veuillez regardez ce deux liens: </p>
   <ul>
-    <li>Rapports<a href>
-    <li><a href="https://favereaucami.github.io/projets/">Projets
+ <li>Rapports<a href="https://favereaucami.github.io/rapports/">Rapports</a></li>
+ <li><a href="https://favereaucami.github.io/projets/">Projets</a></li>
