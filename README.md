@@ -19,7 +19,7 @@ h1{
 h2{
   color:white;
   background:black;
-  border: 2.5px solid white;
+ 
   padding: 0 11.9px 0;
   margin: 0;
 }
